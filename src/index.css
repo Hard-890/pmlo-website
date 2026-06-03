@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #ffffff;
+  overflow-x: hidden;
+}
+
+.font-law {
+  font-family: "Playfair Display", serif;
+}
+::selection {
+  background: #eab308;
+  color: black;
+}
