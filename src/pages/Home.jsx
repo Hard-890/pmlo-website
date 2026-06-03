@@ -9,7 +9,7 @@ import ConsultationForm from "../components/ConsultationForm";
 import ContactSection from "../components/ContactSection";
 import Footer from "../components/Footer";
 import ScrollToTop from "../components/ScrollToTop";
-import WhatsappButton from "../components/WhatsAppButton";
+import WhatsappButton from "../components/WhatsappButton";
 
 function Home() {
   return (
